@@ -35,7 +35,7 @@ class App extends Component {
         if(myregex !== null){
           block.style.display = 'initial'
         } else {
-          block.style.display = 'none'
+            block.style.display = 'none'
         }
       })
     })
